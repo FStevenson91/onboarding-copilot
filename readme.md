@@ -1,5 +1,3 @@
-Copilot de onboarding para empresa — Un agente que responde preguntas de empleados nuevos sobre políticas, beneficios, procesos internos. Muy enterprise, muy alineado con lo que hace PhysaFlow.
-
 # Onboarding Copilot 🤖
 
 Copilot interno impulsado por IA para onboarding de empleados. Sistema RAG que responde preguntas sobre políticas, beneficios, procesos y cultura empresarial utilizando documentación interna como fuente de verdad.
